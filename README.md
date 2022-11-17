@@ -1,13 +1,13 @@
 # ARME *Virtuoso Strings*
 
-*Virtuoso Strings* dataset is part of a larger collection of recordings captured through the [Augmented Reality Music Ensemble (ARME)](https://arme-project.co.uk/) project, with [audio recordings](./audio/) :violin: and [onset annotations](./annotations/) :memo:.
+The *Virtuoso Strings* dataset is part of a larger collection of recordings captured through the [Augmented Reality Music Ensemble (ARME)](https://arme-project.co.uk/) project, with [audio recordings](./audio/) :violin: and [onset annotations](./annotations/) :memo:.
 
 ## Links
 
-:microscope: Paper [preprint]() [[pdf]()]  
+:microscope: [Paper preprint](http://128.84.21.203/abs/2211.08848) [[pdf](http://128.84.21.203/pdf/2211.08848)]  
 :computer: Supporting [website](https://arme-project.co.uk/demos/virtuoso-strings)  
 :musical_score: Musical [scores](/docs/scores/)  
-:musical_note: Audio [recordings](/audio/)  
+:musical_note: Audio [recordings](https://github.com/arme-project/virtuoso-strings/releases)  
 :memo: Onset [annotations](/annotations/)  
 :bar_chart: Annotation [experiments](https://github.com/arme-project/haydn-annotation-dataset)  
 
@@ -45,7 +45,12 @@ Any questions please feel free to contact us or refer to the supporting publicat
 If you use this dataset in your research, feel free to cite this paper:
 
 ```bibtex
-
+@article{tomczak2022annotation,
+  title={Annotation of Soft Onsets in String Ensemble Recordings}, 
+  author={Tomczak, Maciej and Li, Min Susan and Bradbury, Adrian and Elliott, Mark and Stables, Ryan and Witek, Maria and Goodman, Tom and Abdlkarim, Diar and Di Luca, Massimiliano and Wing, Alan and Hockman, Jason},
+  journal={arXiv preprint arXiv:2211.08848},
+  year={2022}
+}
 ```
 
 ## Acknowledgments
