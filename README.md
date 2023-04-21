@@ -1,6 +1,6 @@
 # ARME *Virtuoso Strings*
 
-The *Virtuoso Strings* dataset is part of a larger collection of recordings captured through the [Augmented Reality Music Ensemble (ARME)](https://arme-project.co.uk/) project, with [audio recordings](./audio/) :violin:, and [onset annotations](./annotations/) :memo:.
+The *Virtuoso Strings* dataset contains scores, audio recordings, and onset annotations of a strig quartet performing the Haydn's string quartet Op. 74 No. 1 Finale. It is part of a larger collection of recordings captured through the [Augmented Reality Music Ensemble (ARME)](https://arme-project.co.uk/) project, with [audio recordings](./audio/) :violin:, and [onset annotations](./annotations/) :memo:.
 
 ## Links
 
