@@ -25,8 +25,8 @@ instrument_name:  VN1, VN2, VA, VC
                   'Quartet, duet, trio, solo'
        composer:   JH, AM, LB, ED
                   'Joseph Haydn, Amadeus Mozart, Ludwig van Beethoven, Ernő Dohnányi'
-         leader:   VN1, VN2, VA, VC, VN0
-                  'Assigned leadership or no leadership'
+         leader:   VN1, VN2, VA, VC, VN0, A, B
+                  'Assigned leadership or no leadership, parts A/B in duets'
       condition:  NR, DP, SP
                   'Normal, deadpan, speed'
     take_number:  1-12
@@ -54,7 +54,7 @@ We plan to continue to improve the existing onset annotations. Annotation is a l
 
 Any questions please feel free to contact us or refer to the supporting publication. 
 
-## Citation
+## References
 If you use this dataset in your research, feel free to cite this paper:
 
 ```bibtex
