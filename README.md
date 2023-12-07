@@ -4,7 +4,7 @@ The *Virtuoso Strings* dataset contains scores, onset annotations and audio reco
 
 ## Links
 
-:microscope: [Paper preprint](http://128.84.21.203/abs/2211.08848) [[pdf](http://128.84.21.203/pdf/2211.08848)]  
+:microscope: [Paper preprint](https://ismir2023program.ismir.net/lbd_312.html) [[pdf](https://ismir2023program.ismir.net/lbd_312.html)]  
 :computer: Supporting [website](https://arme-project.co.uk/demos/virtuoso-strings)  
 :musical_score: Musical [scores](/docs/scores/)  
 :musical_note: Audio [recordings](https://github.com/arme-project/virtuoso-strings/releases)  
@@ -55,16 +55,11 @@ We plan to continue to improve the existing onset annotations. Annotation is a l
 Any questions please feel free to contact us or refer to the supporting publication. 
 
 ## References
-If you use this dataset in your research, feel free to cite this paper:
+If you use this dataset in your research, feel free to cite these papers:
 
-```bibtex
-@article{tomczak2022annotation,
-  title={Annotation of Soft Onsets in String Ensemble Recordings}, 
-  author={Tomczak, Maciej and Li, Min Susan and Bradbury, Adrian and Elliott, Mark and Stables, Ryan and Witek, Maria and Goodman, Tom and Abdlkarim, Diar and Di Luca, Massimiliano and Wing, Alan and Hockman, Jason},
-  journal={arXiv preprint arXiv:2211.08848},
-  year={2022}
-}
-```
+
+| **[1]** | **[Tomczak M., M.S. Li, M. Di Luca, Virtuoso Strings: A Dataset of String Ensemble Recordings and Onset Annotations for Timing Analysis, Extended Abstracts for the Late-Breaking Demo Sessions of the 24th International Society for Music Information Retrieval (ISMIR) Conference, 2023.](https://ismir2023program.ismir.net/lbd_312.html)**|
+| :---- | :--- |
 
 ## Acknowledgments
 This project is kindly funded by Engineering and Physical Sciences Research Council (EPSRC) grant with reference [EP/V034987/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V034987/1). 
